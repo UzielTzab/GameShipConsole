@@ -1,0 +1,148 @@
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.exe
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.deps.json
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.runtimeconfig.json
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.pdb
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\NAudio.dll
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.AssemblyReference.cache
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.AssemblyInfoInputs.cache
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.AssemblyInfo.cs
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.CopyComplete
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\refint\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.pdb
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.genruntimeconfig.cache
+C:\Users\Usuario 1\Desktop\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\ref\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.exe
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.deps.json
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.runtimeconfig.json
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.pdb
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\NAudio.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.AssemblyReference.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.AssemblyInfoInputs.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.AssemblyInfo.cs
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.CopyComplete
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\refint\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.pdb
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.genruntimeconfig.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos\obj\Debug\net6.0\ref\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.exe
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.deps.json
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.runtimeconfig.json
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.pdb
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\bin\Debug\net6.0\NAudio.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.AssemblyReference.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.AssemblyInfoInputs.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.AssemblyInfo.cs
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.CopyComplete
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\obj\Debug\net6.0\refint\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.pdb
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.genruntimeconfig.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\obj\Debug\net6.0\ref\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - copia\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.exe
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.deps.json
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.runtimeconfig.json
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.pdb
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\bin\Debug\net6.0\NAudio.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.AssemblyReference.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.AssemblyInfoInputs.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.AssemblyInfo.cs
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.CopyComplete
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\obj\Debug\net6.0\refint\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.pdb
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.genruntimeconfig.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Original\obj\Debug\net6.0\ref\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.exe
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.deps.json
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.runtimeconfig.json
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.pdb
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\NAudio.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.AssemblyReference.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.AssemblyInfoInputs.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.AssemblyInfo.cs
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.CopyComplete
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\refint\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.pdb
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.genruntimeconfig.cache
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\ref\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario 1\Downloads\TAREA DE PROGRAMACION\Proyecto Final\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.exe
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.deps.json
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.runtimeconfig.json
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\RockShip_OrientadoAOobjetos.pdb
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\NAudio.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.AssemblyReference.cache
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.AssemblyInfoInputs.cache
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.AssemblyInfo.cs
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.csproj.CopyComplete
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\refint\RockShip_OrientadoAOobjetos.dll
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.pdb
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\RockShip_OrientadoAOobjetos.genruntimeconfig.cache
+C:\Users\Usuario 1\Documents\PROYECTOS PERSONALES\DesarrolloDeSoftware\ESCRITORIO\C#\JUEGOS\RockShip_OrientadoAOobjetos - Orientado\obj\Debug\net6.0\ref\RockShip_OrientadoAOobjetos.dll
